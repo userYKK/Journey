@@ -6,9 +6,8 @@
 
 ----
 
-1. **TeamBlog** <br>
-    - 博客页面,使用滚动加载
-
+1. **Service** <br>
+    - 提供服务,使用 springboot + maven + mysql
 
 >     问题
 
